@@ -4,7 +4,6 @@
   To classify the Binary input patterns of XOR data  by implementing Radial Basis Function Neural Networks.
   
 ## EQUIPMENTS REQUIRED:
-
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
